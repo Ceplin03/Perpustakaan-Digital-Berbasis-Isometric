@@ -31,7 +31,7 @@ Smart | Library adalah sistem manajemen perpustakaan digital modern yang menggab
 ## 🛠️ Teknologi yang Digunakan
 
 * **Frontend**: Tailwind CSS, JavaScript (Interaktifitas Room)
-* **Backend**: PHP
+* **Backend**: PHP + API
 * **Database**: MySQL
 * **Styling**: Custom Dark Theme
 
